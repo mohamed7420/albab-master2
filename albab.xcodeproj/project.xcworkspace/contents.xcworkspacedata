@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:testWebViewApp.xcodeproj">
+      location = "self:/Users/Mohamed/Desktop/albab-master/albab.xcodeproj">
    </FileRef>
 </Workspace>
